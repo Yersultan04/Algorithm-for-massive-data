@@ -11,14 +11,13 @@ Technique summary:
 | Path | Purpose |
 |------|---------|
 | Untitled2.ipynb | End-to-end notebook: data load, preprocessing, MinHash/LSH, TF-IDF k-NN, evaluation. |
-| Report_for_Massive_Data_Project.pdf | Eight-page report describing the method and results. |
+| Report_for_Massive_Data_Project.pdf | Report describing the method and results. |
 
 ## Method in Brief
 
 1. **Pre-process** reviews (language filter, tokenise, lower-case, stop words).
 2. Build **128-perm MinHash** signatures and apply **banded LSH**.
 3. Verify candidates with **exact Jaccard** and **cosine TF-IDF** tests.
-4. Optionally merge verified pairs into clusters with NetworkX.
 
 ## License
 
