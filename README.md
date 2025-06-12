@@ -1,7 +1,7 @@
 Algorithms for Massive Data 
 
 ## Overview
-This repository contains a reproducible pipeline that flags duplicated and near-duplicated reviews in the Amazon Books dataset.  
+This repository contains a reproducible pipeline that flags duplicated and near-duplicated reviews in the Amazon Books dataset. Link to Google Colab: https://colab.research.google.com/drive/1OPGhnIimioF4E8i_EzXM9crrc3aju8zH?usp=sharing
 Technique summary:
 
 * MinHash + LSH – narrows candidates by Jaccard similarity.  
