@@ -10,7 +10,7 @@ Technique summary:
 ## Repository Layout
 | Path | Purpose |
 |------|---------|
-| Untitled2.ipynb | End-to-end notebook: data load, preprocessing, MinHash/LSH, TF-IDF k-NN, evaluation. |
+| Data Project.ipynb | End-to-end notebook: data load, preprocessing, MinHash/LSH, TF-IDF k-NN, evaluation. |
 | Report_for_Massive_Data_Project.pdf | Report describing the method and results. |
 
 ## Method in Brief
